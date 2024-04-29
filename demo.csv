@@ -1,0 +1,21 @@
+id,nombre,apellido,edad,departamento,email
+1,Ana,Ruiz,28,Marketing,ana.ruiz@email.com
+2,Luis,Gomez,34,Ventas,luis.gomez@email.com
+3,María,Pérez,22,Recursos Humanos,maria.perez@email.com
+4,Juan,Díaz,45,Tecnología,juan.diaz@email.com
+5,Sofía,Castro,30,Producción,sofia.castro@email.com
+6,Carlos,Lopez,27,Marketing,carlos.lopez@email.com
+7,Laura,Garcia,31,Finanzas,laura.garcia@email.com
+8,Diego,Torres,29,Ventas,diego.torres@email.com
+9,Isabel,Sánchez,41,Recursos Humanos,isabel.sanchez@email.com
+10,Marco,Ramírez,38,Tecnología,marco.ramirez@email.com
+11,Silvia,Martín,25,Producción,silvia.martin@email.com
+12,Fernando,González,33,Marketing,fernando.gonzalez@email.com
+13,Patricia,Moreno,39,Finanzas,patricia.moreno@email.com
+14,Oscar,Jiménez,26,Ventas,oscar.jimenez@email.com
+15,Carmen,Lorenzo,37,Recursos Humanos,carmen.lorenzo@email.com
+16,Ricardo,Herrera,42,Tecnología,ricardo.herrera@email.com
+17,Elena,Fernández,29,Producción,elena.fernandez@email.com
+18,Jose,Martinez,36,Marketing,jose.martinez@email.com
+19,Lorena,Navarro,40,Finanzas,lorena.navarro@email.com
+20,Pedro,Romero,23,Ventas,pedro.romero@email.com
